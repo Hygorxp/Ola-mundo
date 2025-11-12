@@ -3,4 +3,4 @@ Primeiro repositório versionado Git & Github
 
 Criado durante aula ao vivo
 
-Alteração feita pela site!
+Alteração feita pelo site!
